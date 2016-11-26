@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=sender\ posX\ posY\ f\ n
+comment0.target=FELD(SCHACHBRETT,\ int,\ int,\ java.awt.Color,\ java.lang.String)
+comment0.text=\r\n\ Konstruktor,\ der\ das\ Schachfeld\ erzeugt\r\n\ \r\n\ @param\ sender\ Das\ Fenster,\ dass\ ein\ Schachfeld\ erzeugt\r\n\ @param\ posX\ Die\ x-Koordinate,\ des\ Felds\r\n\ @param\ posY\ Die\ y-Koordinate,\ des\ Felds\r\n\ @param\ f\ Die\ Farbe\ des\ Feldes\r\n\ @param\ n\ Der\ Name\ des\ Feldes\ z.B.\ A3\r\n
+comment1.params=me
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment10.params=
+comment10.target=int\ getFeldIndexX()
+comment11.params=
+comment11.target=int\ getFeldIndexY()
+comment2.params=b
+comment2.target=void\ setChecked(boolean)
+comment3.params=f
+comment3.target=void\ setFigur(FIGUR)
+comment4.params=
+comment4.target=FIGUR\ getFigur()
+comment5.params=
+comment5.target=void\ deleteFigur()
+comment6.params=
+comment6.target=boolean\ isFull()
+comment7.params=b
+comment7.target=void\ setLocked(boolean)
+comment8.params=b
+comment8.target=void\ setOkay(boolean)
+comment9.params=
+comment9.target=SCHACHBRETT\ getParentSchachbrett()
+numComments=12

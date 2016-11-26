@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=sender
+comment0.target=LABELS(GAME)
+comment1.params=txt
+comment1.target=void\ setOnTurnText(java.lang.String)
+numComments=2

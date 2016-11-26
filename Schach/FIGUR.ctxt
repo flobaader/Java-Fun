@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=sender\ f\ t\ c
+comment0.target=FIGUR(SCHACHBRETT,\ FELD,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Standartkonstruktor\ f\u00FCr\ eine\ Schachfigur\r\n\ @param\ sender\ Das\ Fenster,\ f\u00FCr\ das\ eine\ Figur\ erstellt\ werden\ soll\r\n\ @param\ posX\ Die\ x-Position\ der\ Figur\r\n\ @param\ posy\ Die\ y-Position\ der\ Figur\r\n\ @param\ t\ Der\ Typ\ der\ Figur\:\ FIGUR.BAUER,\ FIGUR.DAME,\ FIGUR.KOENIG,\ FIGUR.TURM,\ FIGUR.\ SPRINGER\ ,\ FIGUR.LAEUFER\r\n\ @param\ c\ Die\ Farbe\ der\ Figur\:\ FIGUR.BLACK\ ,\ FIGUR.WHITE\r\n
+comment1.params=me
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment10.params=
+comment10.target=boolean\ isStartPos()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=b
+comment3.target=void\ setChecked(boolean)
+comment4.params=
+comment4.target=boolean\ isChecked()
+comment5.params=
+comment5.target=java.awt.Point\ getPos()
+comment6.params=
+comment6.target=GAME\ getParentGame()
+comment7.params=f
+comment7.target=void\ setFELD(FELD)
+comment8.params=
+comment8.target=FELD\ getFELD()
+comment9.params=
+comment9.target=java.lang.String\ getColor()
+numComments=11

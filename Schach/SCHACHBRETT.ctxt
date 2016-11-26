@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=sender
+comment0.target=SCHACHBRETT(GAME)
+comment1.params=
+comment1.target=GAME\ getParentGame()
+comment2.params=
+comment2.target=void\ createFigurs()
+comment3.params=
+comment3.target=FELD[][]\ getFields()
+numComments=4
